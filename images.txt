@@ -1,1 +1,1 @@
-andruche/greenplum:7.0.0
+cloudera/quickstart:latest
