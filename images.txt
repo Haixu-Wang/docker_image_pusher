@@ -1,1 +1,1 @@
-cloudera/quickstart:latest
+rooneyp1976/impala:latest
