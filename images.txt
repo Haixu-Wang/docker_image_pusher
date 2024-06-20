@@ -1,1 +1,1 @@
-andruche/greenplum
+andruche/greenplum:7.0.0
