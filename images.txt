@@ -1,1 +1,1 @@
-rooneyp1976/impala:latest
+anydsl/impala:latest
